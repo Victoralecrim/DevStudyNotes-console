@@ -1,0 +1,15 @@
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\bin\Debug\net7.0\DevStudyNoteS.console.exe
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\bin\Debug\net7.0\DevStudyNoteS.console.deps.json
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\bin\Debug\net7.0\DevStudyNoteS.console.runtimeconfig.json
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\bin\Debug\net7.0\DevStudyNoteS.console.dll
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\bin\Debug\net7.0\DevStudyNoteS.console.pdb
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.csproj.AssemblyReference.cache
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.AssemblyInfoInputs.cache
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.AssemblyInfo.cs
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.csproj.CoreCompileInputs.cache
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.dll
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\refint\DevStudyNoteS.console.dll
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.pdb
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\DevStudyNoteS.console.genruntimeconfig.cache
+D:\Jornada.NET\Aula2\DevStudyNoteS.console\obj\Debug\net7.0\ref\DevStudyNoteS.console.dll
